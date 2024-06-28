@@ -1,0 +1,12 @@
+name: pyhep2024-zfit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - pip
+  - pip:
+    - zfit>=0.20
+    - zfit-physics>=0.7
