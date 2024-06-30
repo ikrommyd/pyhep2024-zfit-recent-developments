@@ -1,4 +1,4 @@
-# pyhep2024-zfit-recent-developments
+# PyHEP 2024 Recent developments and user contributions in zfit
 
 ### MyBinder
 
