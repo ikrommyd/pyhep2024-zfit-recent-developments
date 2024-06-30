@@ -17,5 +17,5 @@ https://mybinder.org/v2/gh/ikrommyd/pyhep2024-zfit-recent-developments/HEAD?labp
 Below is a URL that will launch the `zfit-recent-developments.ipynb` notebook in this repository into a JupyterLab environment on BinderHub.
 
 ```
-https://https://binderhub.ssl-hep.org//v2/gh/ikrommyd/pyhep2024-zfit-recent-developments/HEAD?labpath=zfit-recent-developments.ipynb
+https://binderhub.ssl-hep.org//v2/gh/ikrommyd/pyhep2024-zfit-recent-developments/HEAD?labpath=zfit-recent-developments.ipynb
 ```
