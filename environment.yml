@@ -5,7 +5,7 @@ dependencies:
   - python=3.11
   - jupyterlab
   - matplotlib
-  - notebook
+  - notebook<7
   - pip
   - pip:
     - zfit>=0.20
